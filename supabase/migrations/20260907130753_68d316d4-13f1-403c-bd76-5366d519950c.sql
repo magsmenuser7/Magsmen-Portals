@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.can_join_group_call(uuid, uuid) FROM authenticated;
